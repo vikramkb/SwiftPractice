@@ -11,6 +11,8 @@
 		266172D31D2E6E56005162DD /* Basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266172D21D2E6E56005162DD /* Basics.swift */; };
 		266C08851D30BD64002B364B /* StringRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08841D30BD64002B364B /* StringRef.swift */; };
 		266C08871D30DC56002B364B /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08861D30DC56002B364B /* CollectionType.swift */; };
+		266C088B1D310B65002B364B /* ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088A1D310B65002B364B /* ControlFlow.swift */; };
+		266C088D1D314DFA002B364B /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088C1D314DFA002B364B /* Function.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +33,8 @@
 		266172D21D2E6E56005162DD /* Basics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basics.swift; sourceTree = "<group>"; };
 		266C08841D30BD64002B364B /* StringRef.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringRef.swift; sourceTree = "<group>"; };
 		266C08861D30DC56002B364B /* CollectionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
+		266C088A1D310B65002B364B /* ControlFlow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControlFlow.swift; sourceTree = "<group>"; };
+		266C088C1D314DFA002B364B /* Function.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +71,8 @@
 				266172D21D2E6E56005162DD /* Basics.swift */,
 				266C08841D30BD64002B364B /* StringRef.swift */,
 				266C08861D30DC56002B364B /* CollectionType.swift */,
+				266C088A1D310B65002B364B /* ControlFlow.swift */,
+				266C088C1D314DFA002B364B /* Function.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -129,7 +135,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				266172CC1D2E6E32005162DD /* main.swift in Sources */,
+				266C088B1D310B65002B364B /* ControlFlow.swift in Sources */,
 				266C08871D30DC56002B364B /* CollectionType.swift in Sources */,
+				266C088D1D314DFA002B364B /* Function.swift in Sources */,
 				266172D31D2E6E56005162DD /* Basics.swift in Sources */,
 				266C08851D30BD64002B364B /* StringRef.swift in Sources */,
 			);

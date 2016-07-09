@@ -18,9 +18,15 @@ class Main: NSObject {
         sectionBreak("Strings")
         let stringRef = StringRef()
         stringRef.start()
+        
         sectionBreak("Collection Types")
         let collectionTypes = CollectionType()
         collectionTypes.start()
+
+        sectionBreak("Control Flow")
+        let controlFlow = ControlFlow()
+        controlFlow.start()
+        
     }
     
     func sectionBreak(sectionName : String ) -> Void {
