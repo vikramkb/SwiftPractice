@@ -18,6 +18,9 @@ class Main: NSObject {
         sectionBreak("Strings")
         let stringRef = StringRef()
         stringRef.start()
+        sectionBreak("Collection Types")
+        let collectionTypes = CollectionType()
+        collectionTypes.start()
     }
     
     func sectionBreak(sectionName : String ) -> Void {
@@ -36,6 +39,3 @@ class Main: NSObject {
 
 var main = Main()
 main.start()
-
-
-1

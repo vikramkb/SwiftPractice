@@ -25,8 +25,8 @@ class StringRef: NSObject {
     
     func emptyString() -> Void {
         print("----------------------- empty string ------------------------")
-        var emptyString = ""               // empty string literal
-        var anotherEmptyString = String()  // initializer syntax
+        let emptyString = ""               // empty string literal
+        let anotherEmptyString = String()  // initializer syntax
         // these two strings are both empty, and are equivalent to each other
         if emptyString.isEmpty {
             print("Nothing to see here")

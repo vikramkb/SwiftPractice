@@ -90,7 +90,7 @@ class Basics: NSObject {
         print("--------------------- booleans --------------------------")
         let turnipsAreDelicious = false
         if turnipsAreDelicious {
-            print("Mmm, tasty turnips!")
+//            print("Mmm, tasty turnips!")
         } else {
             print("Eww, turnips are horrible.")
         }
