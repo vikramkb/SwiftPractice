@@ -149,7 +149,9 @@ class Basics: NSObject {
         var surveyAnswer: String?
         // surveyAnswer is automatically set to nil
         surveyAnswer = "1234"
-        print("\(serverResponseCode!)" + " " + surveyAnswer!)
+        print(surveyAnswer!)
+        Main.avoidUnusedWarning(serverResponseCode)
+
         
         if convertedNumber != nil {
             print("convertedNumber contains some integer value.")

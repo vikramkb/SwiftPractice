@@ -8,7 +8,34 @@
 
 import Foundation
 
-var basics : Basics = Basics()
-basics.start()
+
+class Main: NSObject {
+    func start() -> Void {
+        sectionBreak("Basics")
+        let basics : Basics = Basics()
+        basics.start()
+        
+        sectionBreak("Strings")
+        let stringRef = StringRef()
+        stringRef.start()
+    }
+    
+    func sectionBreak(sectionName : String ) -> Void {
+        print("_______________________________________________________________________")
+        print("")
+        print("$$$$$$$$$$$$$$$$$$$$$       \(sectionName)         $$$$$$$$$$$$$$$$$$$$$$$$$$$")
+        print("")
+        print("_______________________________________________________________________")
+    }
+    
+    class func avoidUnusedWarning(args:AnyObject?...) -> Void {
+        
+    }
+
+}
+
+var main = Main()
+main.start()
 
 
+1
