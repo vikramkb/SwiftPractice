@@ -11,21 +11,25 @@ import Foundation
 
 class Main: NSObject {
     func start() -> Void {
-        sectionBreak("Basics")
-        let basics : Basics = Basics()
-        basics.start()
-        
-        sectionBreak("Strings")
-        let stringRef = StringRef()
-        stringRef.start()
-        
-        sectionBreak("Collection Types")
-        let collectionTypes = CollectionType()
-        collectionTypes.start()
+//        sectionBreak("Basics")
+//        let basics : Basics = Basics()
+//        basics.start()
+//        
+//        sectionBreak("Strings")
+//        let stringRef = StringRef()
+//        stringRef.start()
+//        
+//        sectionBreak("Collection Types")
+//        let collectionTypes = CollectionType()
+//        collectionTypes.start()
+//
+//        sectionBreak("Control Flow")
+//        let controlFlow = ControlFlow()
+//        controlFlow.start()
 
-        sectionBreak("Control Flow")
-        let controlFlow = ControlFlow()
-        controlFlow.start()
+        sectionBreak("Functions")
+        let fun = Function()
+        fun.start()
         
     }
     
