@@ -46,7 +46,10 @@ class Main: NSObject {
         sectionBreak("properties")
         let properties = Properties()
         properties.start()
-        
+
+        sectionBreak("methods")
+        let methods = Methods()
+        methods.start()
     }
     
     func sectionBreak(sectionName : String ) -> Void {
