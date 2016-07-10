@@ -34,6 +34,12 @@ class Main: NSObject {
         sectionBreak("Closures")
         let closuer = Closuer()
         closuer.start()
+
+        sectionBreak("Enumerations")
+        let enumuration = Enumerations()
+        enumuration.start()
+        
+        
     }
     
     func sectionBreak(sectionName : String ) -> Void {
