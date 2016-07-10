@@ -41,7 +41,12 @@ class Main: NSObject {
 
         sectionBreak("classes and structures")
         let classesStructures = ClassesStructures()
-        classesStructures.start()      
+        classesStructures.start()
+        
+        sectionBreak("properties")
+        let properties = Properties()
+        properties.start()
+        
     }
     
     func sectionBreak(sectionName : String ) -> Void {

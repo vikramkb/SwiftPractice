@@ -16,6 +16,7 @@
 		266C088F1D322057002B364B /* Closuer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088E1D322057002B364B /* Closuer.swift */; };
 		266C08911D3238CB002B364B /* Enumerations.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08901D3238CB002B364B /* Enumerations.swift */; };
 		266C08931D3253FD002B364B /* ClssesStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08921D3253FD002B364B /* ClssesStructures.swift */; };
+		266C08951D325F67002B364B /* Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08941D325F67002B364B /* Properties.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -41,6 +42,7 @@
 		266C088E1D322057002B364B /* Closuer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Closuer.swift; sourceTree = "<group>"; };
 		266C08901D3238CB002B364B /* Enumerations.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Enumerations.swift; sourceTree = "<group>"; };
 		266C08921D3253FD002B364B /* ClssesStructures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClssesStructures.swift; sourceTree = "<group>"; };
+		266C08941D325F67002B364B /* Properties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Properties.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -82,6 +84,7 @@
 				266C088E1D322057002B364B /* Closuer.swift */,
 				266C08901D3238CB002B364B /* Enumerations.swift */,
 				266C08921D3253FD002B364B /* ClssesStructures.swift */,
+				266C08941D325F67002B364B /* Properties.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -151,6 +154,7 @@
 				266172D31D2E6E56005162DD /* Basics.swift in Sources */,
 				266C08851D30BD64002B364B /* StringRef.swift in Sources */,
 				266C088F1D322057002B364B /* Closuer.swift in Sources */,
+				266C08951D325F67002B364B /* Properties.swift in Sources */,
 				266C08911D3238CB002B364B /* Enumerations.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
