@@ -13,6 +13,7 @@
 		266C08871D30DC56002B364B /* CollectionType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08861D30DC56002B364B /* CollectionType.swift */; };
 		266C088B1D310B65002B364B /* ControlFlow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088A1D310B65002B364B /* ControlFlow.swift */; };
 		266C088D1D314DFA002B364B /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088C1D314DFA002B364B /* Function.swift */; };
+		266C088F1D322057002B364B /* Closuer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C088E1D322057002B364B /* Closuer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -35,6 +36,7 @@
 		266C08861D30DC56002B364B /* CollectionType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CollectionType.swift; sourceTree = "<group>"; };
 		266C088A1D310B65002B364B /* ControlFlow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ControlFlow.swift; sourceTree = "<group>"; };
 		266C088C1D314DFA002B364B /* Function.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
+		266C088E1D322057002B364B /* Closuer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Closuer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				266C08861D30DC56002B364B /* CollectionType.swift */,
 				266C088A1D310B65002B364B /* ControlFlow.swift */,
 				266C088C1D314DFA002B364B /* Function.swift */,
+				266C088E1D322057002B364B /* Closuer.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 				266C088D1D314DFA002B364B /* Function.swift in Sources */,
 				266172D31D2E6E56005162DD /* Basics.swift in Sources */,
 				266C08851D30BD64002B364B /* StringRef.swift in Sources */,
+				266C088F1D322057002B364B /* Closuer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
