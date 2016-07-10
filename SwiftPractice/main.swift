@@ -38,8 +38,10 @@ class Main: NSObject {
         sectionBreak("Enumerations")
         let enumuration = Enumerations()
         enumuration.start()
-        
-        
+
+        sectionBreak("classes and structures")
+        let classesStructures = ClassesStructures()
+        classesStructures.start()      
     }
     
     func sectionBreak(sectionName : String ) -> Void {
