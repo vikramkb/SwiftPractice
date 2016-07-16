@@ -54,6 +54,14 @@ class Main: NSObject {
         sectionBreak("initialization")
         let initialization = Initialization()
         initialization.start()
+
+        sectionBreak("de-initialization")
+        let deInitialization = DeInitialization()
+        deInitialization.start()
+
+        sectionBreak("automatic reference counting")
+        let automaticRefCounting = AutomaticReferenceCounting()
+        automaticRefCounting.start()
         
     }
     

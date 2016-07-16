@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2631A4891D3A5FCC00F68130 /* Deinitialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A4881D3A5FCC00F68130 /* Deinitialization.swift */; };
+		2631A48B1D3A661600F68130 /* AutomaticReferenceCounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */; };
 		266172CC1D2E6E32005162DD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266172CB1D2E6E32005162DD /* main.swift */; };
 		266172D31D2E6E56005162DD /* Basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266172D21D2E6E56005162DD /* Basics.swift */; };
 		266C08851D30BD64002B364B /* StringRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08841D30BD64002B364B /* StringRef.swift */; };
@@ -34,6 +36,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		2631A4881D3A5FCC00F68130 /* Deinitialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Deinitialization.swift; sourceTree = "<group>"; };
+		2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutomaticReferenceCounting.swift; sourceTree = "<group>"; };
 		266172C81D2E6E32005162DD /* SwiftPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		266172CB1D2E6E32005162DD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		266172D21D2E6E56005162DD /* Basics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basics.swift; sourceTree = "<group>"; };
@@ -91,6 +95,8 @@
 				266C08941D325F67002B364B /* Properties.swift */,
 				266C08961D328846002B364B /* Methods.swift */,
 				266C08981D330E80002B364B /* Initialization.swift */,
+				2631A4881D3A5FCC00F68130 /* Deinitialization.swift */,
+				2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -152,9 +158,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2631A4891D3A5FCC00F68130 /* Deinitialization.swift in Sources */,
 				266172CC1D2E6E32005162DD /* main.swift in Sources */,
 				266C08931D3253FD002B364B /* ClssesStructures.swift in Sources */,
 				266C088B1D310B65002B364B /* ControlFlow.swift in Sources */,
+				2631A48B1D3A661600F68130 /* AutomaticReferenceCounting.swift in Sources */,
 				266C08991D330E80002B364B /* Initialization.swift in Sources */,
 				266C08871D30DC56002B364B /* CollectionType.swift in Sources */,
 				266C088D1D314DFA002B364B /* Function.swift in Sources */,
