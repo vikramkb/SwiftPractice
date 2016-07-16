@@ -18,6 +18,7 @@
 		266C08931D3253FD002B364B /* ClssesStructures.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08921D3253FD002B364B /* ClssesStructures.swift */; };
 		266C08951D325F67002B364B /* Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08941D325F67002B364B /* Properties.swift */; };
 		266C08971D328846002B364B /* Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08961D328846002B364B /* Methods.swift */; };
+		266C08991D330E80002B364B /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08981D330E80002B364B /* Initialization.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -45,6 +46,7 @@
 		266C08921D3253FD002B364B /* ClssesStructures.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ClssesStructures.swift; sourceTree = "<group>"; };
 		266C08941D325F67002B364B /* Properties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Properties.swift; sourceTree = "<group>"; };
 		266C08961D328846002B364B /* Methods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Methods.swift; sourceTree = "<group>"; };
+		266C08981D330E80002B364B /* Initialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Initialization.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +90,7 @@
 				266C08921D3253FD002B364B /* ClssesStructures.swift */,
 				266C08941D325F67002B364B /* Properties.swift */,
 				266C08961D328846002B364B /* Methods.swift */,
+				266C08981D330E80002B364B /* Initialization.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -152,6 +155,7 @@
 				266172CC1D2E6E32005162DD /* main.swift in Sources */,
 				266C08931D3253FD002B364B /* ClssesStructures.swift in Sources */,
 				266C088B1D310B65002B364B /* ControlFlow.swift in Sources */,
+				266C08991D330E80002B364B /* Initialization.swift in Sources */,
 				266C08871D30DC56002B364B /* CollectionType.swift in Sources */,
 				266C088D1D314DFA002B364B /* Function.swift in Sources */,
 				266172D31D2E6E56005162DD /* Basics.swift in Sources */,

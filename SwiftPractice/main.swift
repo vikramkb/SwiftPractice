@@ -50,6 +50,11 @@ class Main: NSObject {
         sectionBreak("methods")
         let methods = Methods()
         methods.start()
+        
+        sectionBreak("initialization")
+        let initialization = Initialization()
+        initialization.start()
+        
     }
     
     func sectionBreak(sectionName : String ) -> Void {
