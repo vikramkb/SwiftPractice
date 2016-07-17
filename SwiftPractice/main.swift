@@ -62,7 +62,10 @@ class Main: NSObject {
         sectionBreak("automatic reference counting")
         let automaticRefCounting = AutomaticReferenceCounting()
         automaticRefCounting.start()
-        
+
+        sectionBreak("optional chaining")
+        let optionalChaining = OptionalChaining()
+        optionalChaining.start()
     }
     
     func sectionBreak(sectionName : String ) -> Void {
