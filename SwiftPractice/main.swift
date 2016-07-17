@@ -66,6 +66,11 @@ class Main: NSObject {
         sectionBreak("optional chaining")
         let optionalChaining = OptionalChaining()
         optionalChaining.start()
+        
+        sectionBreak("error handling")
+        let errorHandling = ErrorHandling()
+        errorHandling.start()
+        
     }
     
     func sectionBreak(sectionName : String ) -> Void {
