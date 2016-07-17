@@ -27,6 +27,7 @@
 		266C08951D325F67002B364B /* Properties.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08941D325F67002B364B /* Properties.swift */; };
 		266C08971D328846002B364B /* Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08961D328846002B364B /* Methods.swift */; };
 		266C08991D330E80002B364B /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08981D330E80002B364B /* Initialization.swift */; };
+		26F0D2221D3B877400399126 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0D2211D3B877400399126 /* Protocols.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -63,6 +64,7 @@
 		266C08941D325F67002B364B /* Properties.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Properties.swift; sourceTree = "<group>"; };
 		266C08961D328846002B364B /* Methods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Methods.swift; sourceTree = "<group>"; };
 		266C08981D330E80002B364B /* Initialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Initialization.swift; sourceTree = "<group>"; };
+		26F0D2211D3B877400399126 /* Protocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -115,6 +117,7 @@
 				2631A4921D3B690D00F68130 /* Inheritance.swift */,
 				2631A4941D3B6EEA00F68130 /* Subscript.swift */,
 				2631A4961D3B7DC400F68130 /* Extension.swift */,
+				26F0D2211D3B877400399126 /* Protocols.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				2631A48B1D3A661600F68130 /* AutomaticReferenceCounting.swift in Sources */,
 				266C08991D330E80002B364B /* Initialization.swift in Sources */,
 				266C08871D30DC56002B364B /* CollectionType.swift in Sources */,
+				26F0D2221D3B877400399126 /* Protocols.swift in Sources */,
 				266C088D1D314DFA002B364B /* Function.swift in Sources */,
 				2631A4951D3B6EEA00F68130 /* Subscript.swift in Sources */,
 				266172D31D2E6E56005162DD /* Basics.swift in Sources */,

@@ -93,6 +93,7 @@ class Extension {
         print("1 km = \(km.getInMeters()) meters")
     }
     
+    //mutating method can change the self itself
     func mutatingInstanceMethods() {
         print("----------------------- mutating instance methods ------------------------")
         var someInt = 3

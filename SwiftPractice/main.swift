@@ -86,6 +86,10 @@ class Main: NSObject {
         sectionBreak("extension")
         let extensionExample = Extension()
         extensionExample.start()
+
+        sectionBreak("protocols")
+        let protocols = Protocols()
+        protocols.start()
         
     }
     
