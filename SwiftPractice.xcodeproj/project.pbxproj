@@ -28,6 +28,7 @@
 		266C08971D328846002B364B /* Methods.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08961D328846002B364B /* Methods.swift */; };
 		266C08991D330E80002B364B /* Initialization.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08981D330E80002B364B /* Initialization.swift */; };
 		26F0D2221D3B877400399126 /* Protocols.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0D2211D3B877400399126 /* Protocols.swift */; };
+		26F0D2241D3B982200399126 /* Generics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 26F0D2231D3B982200399126 /* Generics.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -65,6 +66,7 @@
 		266C08961D328846002B364B /* Methods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Methods.swift; sourceTree = "<group>"; };
 		266C08981D330E80002B364B /* Initialization.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Initialization.swift; sourceTree = "<group>"; };
 		26F0D2211D3B877400399126 /* Protocols.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Protocols.swift; sourceTree = "<group>"; };
+		26F0D2231D3B982200399126 /* Generics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Generics.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -118,6 +120,7 @@
 				2631A4941D3B6EEA00F68130 /* Subscript.swift */,
 				2631A4961D3B7DC400F68130 /* Extension.swift */,
 				26F0D2211D3B877400399126 /* Protocols.swift */,
+				26F0D2231D3B982200399126 /* Generics.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -198,6 +201,7 @@
 				2631A4971D3B7DC400F68130 /* Extension.swift in Sources */,
 				2631A48F1D3B589D00F68130 /* ErrorHandling.swift in Sources */,
 				266C08951D325F67002B364B /* Properties.swift in Sources */,
+				26F0D2241D3B982200399126 /* Generics.swift in Sources */,
 				266C08911D3238CB002B364B /* Enumerations.swift in Sources */,
 				2631A4911D3B5EC600F68130 /* TypeCasting.swift in Sources */,
 			);

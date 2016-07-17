@@ -90,6 +90,10 @@ class Main: NSObject {
         sectionBreak("protocols")
         let protocols = Protocols()
         protocols.start()
+
+        sectionBreak("generics")
+        let generics = Generics()
+        generics.start()
         
     }
     
