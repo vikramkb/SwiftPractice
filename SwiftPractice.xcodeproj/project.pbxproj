@@ -11,6 +11,7 @@
 		2631A48B1D3A661600F68130 /* AutomaticReferenceCounting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */; };
 		2631A48D1D3B2E8900F68130 /* OptionalChaining.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A48C1D3B2E8900F68130 /* OptionalChaining.swift */; };
 		2631A48F1D3B589D00F68130 /* ErrorHandling.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A48E1D3B589D00F68130 /* ErrorHandling.swift */; };
+		2631A4911D3B5EC600F68130 /* TypeCasting.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2631A4901D3B5EC600F68130 /* TypeCasting.swift */; };
 		266172CC1D2E6E32005162DD /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266172CB1D2E6E32005162DD /* main.swift */; };
 		266172D31D2E6E56005162DD /* Basics.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266172D21D2E6E56005162DD /* Basics.swift */; };
 		266C08851D30BD64002B364B /* StringRef.swift in Sources */ = {isa = PBXBuildFile; fileRef = 266C08841D30BD64002B364B /* StringRef.swift */; };
@@ -42,6 +43,7 @@
 		2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AutomaticReferenceCounting.swift; sourceTree = "<group>"; };
 		2631A48C1D3B2E8900F68130 /* OptionalChaining.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OptionalChaining.swift; sourceTree = "<group>"; };
 		2631A48E1D3B589D00F68130 /* ErrorHandling.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ErrorHandling.swift; sourceTree = "<group>"; };
+		2631A4901D3B5EC600F68130 /* TypeCasting.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TypeCasting.swift; sourceTree = "<group>"; };
 		266172C81D2E6E32005162DD /* SwiftPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftPractice; sourceTree = BUILT_PRODUCTS_DIR; };
 		266172CB1D2E6E32005162DD /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		266172D21D2E6E56005162DD /* Basics.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Basics.swift; sourceTree = "<group>"; };
@@ -103,6 +105,7 @@
 				2631A48A1D3A661600F68130 /* AutomaticReferenceCounting.swift */,
 				2631A48C1D3B2E8900F68130 /* OptionalChaining.swift */,
 				2631A48E1D3B589D00F68130 /* ErrorHandling.swift */,
+				2631A4901D3B5EC600F68130 /* TypeCasting.swift */,
 			);
 			path = SwiftPractice;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 				2631A48F1D3B589D00F68130 /* ErrorHandling.swift in Sources */,
 				266C08951D325F67002B364B /* Properties.swift in Sources */,
 				266C08911D3238CB002B364B /* Enumerations.swift in Sources */,
+				2631A4911D3B5EC600F68130 /* TypeCasting.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

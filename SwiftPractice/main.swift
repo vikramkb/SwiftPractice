@@ -70,6 +70,10 @@ class Main: NSObject {
         sectionBreak("error handling")
         let errorHandling = ErrorHandling()
         errorHandling.start()
+
+        sectionBreak("type casting")
+        let typeCasting = TypeCasting()
+        typeCasting.start()
         
     }
     
