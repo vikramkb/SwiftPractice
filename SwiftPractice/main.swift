@@ -78,6 +78,10 @@ class Main: NSObject {
         sectionBreak("inheritance")
         let inheritance = Inheritance()
         inheritance.start()
+
+        sectionBreak("subscript")
+        let subScript = Subscript()
+        subScript.start()
         
     }
     
