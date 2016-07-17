@@ -74,6 +74,10 @@ class Main: NSObject {
         sectionBreak("type casting")
         let typeCasting = TypeCasting()
         typeCasting.start()
+
+        sectionBreak("inheritance")
+        let inheritance = Inheritance()
+        inheritance.start()
         
     }
     
