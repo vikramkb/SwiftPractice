@@ -82,6 +82,10 @@ class Main: NSObject {
         sectionBreak("subscript")
         let subScript = Subscript()
         subScript.start()
+
+        sectionBreak("extension")
+        let extensionExample = Extension()
+        extensionExample.start()
         
     }
     
